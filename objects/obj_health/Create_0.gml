@@ -1,4 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-x += 2;
-image_xscale = 1;
+instance_to_follow = NaN;
+offset_x = 0;
+offset_y = 0;
